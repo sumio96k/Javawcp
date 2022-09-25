@@ -1,7 +1,7 @@
 package classMethod.human;
 
 public class Human04 {
-	static public int humanCount = 0;
+	public static int humanCount = 0;
 	public String name;
 	
 	public static final String GREETING = "こんにちは";
